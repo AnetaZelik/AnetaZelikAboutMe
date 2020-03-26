@@ -5,6 +5,7 @@ CONTACT:
 
 • aneta.zelik@yahoo.com
 
+
 SKILLS:
 
 • Java, SQL, HTML, CSS 
@@ -14,6 +15,7 @@ SKILLS:
 • Attention to details, analytical and organizational skills 
 
 • Fluent English, pre-intermediate German 
+
 
 EDUCATION:
 
