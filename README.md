@@ -1,4 +1,4 @@
-# AnetaZelik-about-me
+# AnetaZelik about me
 CONTACT:
 
 • https://www.linkedin.com/in/aneta-zelik-a18790113/
