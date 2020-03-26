@@ -1,11 +1,13 @@
 # AnetaZelik-about-me
-CONTACT
+CONTACT:
+
 • https://www.linkedin.com/in/aneta-zelik-a18790113/
 
 • aneta.zelik@yahoo.com
 
-SKILLS 
-• SQL, Java, HTML, CSS 
+SKILLS:
+
+• Java, SQL, HTML, CSS 
 
 • Attention to details, analytical and organizational skills 
 
@@ -13,7 +15,8 @@ SKILLS
 
 • Excel, Word, PowerPoint, Outlook, GIMP, Photoshop, Sharepoint, IntelliJ 
 
-EDUCATION
+EDUCATION:
+
 • Agile methods | Workshops 16h | 2019
 
 • Java libraries and tools | Course 14h | 2019
@@ -31,5 +34,3 @@ EDUCATION
 • Python | Course 20h |2019
 
 • Programming in Java | Course 90h | 2018
-
-• Tourism and recreation | Cracow University of Economics | 2007
