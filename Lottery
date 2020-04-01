@@ -1,0 +1,36 @@
+package com.company;
+
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Set<Integer> mojSet = new HashSet<>();
+        Random random = new Random();
+
+        Scanner scanner = new Scanner(System.in);
+        int pula = 0, zakres = 0;
+        System.out.println("Podaj ile liczb losujemy: ");
+        pula = scanner.nextInt();
+        System.out.println("Podaj z jakiego przedziału: ");
+        zakres = scanner.nextInt();
+
+        for (int i = 0; i < pula; i++) {
+            mojSet.add(random.nextInt(zakres + 1));
+        }
+        //display the set method
+        System.out.println(mojSet);
+
+        //display the set method
+        Iterator iterator = mojSet.iterator();
+        while (iterator.hasNext()){
+            System.out.print(iterator.next());
+        }
+        System.out.println("");
+
+        //display the set method
+        for(Integer element : mojSet){
+            System.out.print(element);
+        }
+
+    }
+}
