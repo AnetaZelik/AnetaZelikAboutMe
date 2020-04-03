@@ -10,7 +10,7 @@ SKILLS:
 
 • Java, SQL, HTML, CSS 
 
-• IntelliJ IDEA, Git, GitHub
+• IntelliJ IDEA, Git, GitHub, Spring
 
 • Attention to details, analytical and organizational skills 
 
