@@ -8,11 +8,13 @@ CONTACT:
 
 SKILLS:
 
-• Java, SQL, HTML, CSS 
+• Java, SQL, HTML5, CSS
 
-• IntelliJ IDEA, Visual Studio Code, Git, GitHub, Spring
+• Spring, Hibernate, JUnit5, Lombok, Maven,
 
-• Attention to details, analytical and organizational skills 
+• IntelliJ IDEA, Visual Studio Code, Git, GitHub, JIRA
+
+• Attention to details, analytical and organizational skills, time management, teamwork 
 
 • Fluent English, pre-intermediate German 
 
