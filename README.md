@@ -5,12 +5,11 @@ CONTACT:
 
 • aneta.zelik@yahoo.com
 
-
 SKILLS:
 
-• Java, SQL, HTML5, CSS
+• Java 8, Java 11, SQL
 
-• Spring, Hibernate, JUnit5, Lombok, Maven,
+• Spring, Hibernate, JUnit5, Mockito, AssertJ, Lombok, Maven, Bazel
 
 • IntelliJ IDEA, Visual Studio Code, Git, GitHub, JIRA
 
@@ -18,6 +17,15 @@ SKILLS:
 
 • Fluent English, pre-intermediate German 
 
+EXPERIENCE
+
+Java Developer Internship Tink AB I 2021- currently
+
+• involvement in development and maintenance of a fintech software (open banking platform) using Java,
+
+• development, implementing and performing unit testing using Junit and Mockito,
+
+• working in an Agile environment using Kanban;
 
 EDUCATION:
 
